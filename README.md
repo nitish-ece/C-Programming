@@ -3,7 +3,7 @@
 My journey learning C programming as an Electronics and Communication Engineering student.
 
 
-##What I'm Learning
+*What I'm Learning*
 
 • Variables and data types
 
@@ -26,11 +26,11 @@ My journey learning C programming as an Electronics and Communication Engineerin
 • File handling
 
 
-##Projects
+*Projects*
 
 Projects will be added as I learn and build them.
 
 
-##Goal
+*Goal*
 
 Build a strong programming foundation for Data Structures and Algorithms, software development, and ECE projects.
